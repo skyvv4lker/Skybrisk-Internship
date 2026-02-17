@@ -50,8 +50,20 @@ This repository contains my Month 1 internship work, completed as part of the Sk
 ## Repository Structure
    ```
    ├── Week-1/
+         ├── client_project.py
+         ├── python_basics.py
+         ├── summary.txt
    ├── Week-2/
+         ├── client_project.py
+         ├── data_structures.py
+         ├── summary.txt
    ├── Week-3/
+         ├── client_project.py
+         ├── data_manipulation.py
+         ├── summary.txt
    ├── Week-4/
+         ├── client_project.py
+         ├── data_visualization.py
+         ├── summary.txt
    ```
    
