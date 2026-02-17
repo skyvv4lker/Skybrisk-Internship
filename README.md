@@ -36,7 +36,7 @@ This repository contains my Month 1 internship work, completed as part of the Sk
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/skyvv4lker/Skybrisk-Internship>
+   git clone https://github.com/skyvv4lker/Skybrisk-Internship
    ```
 2. Install dependencies:
    ```bash
