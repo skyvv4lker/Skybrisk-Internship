@@ -65,5 +65,7 @@ This repository contains my Month 1 internship work, completed as part of the Sk
          ├── client_project.py
          ├── data_visualization.py
          ├── summary.txt
+   ├── LICENSE
+   ├── README.md
    ```
    
