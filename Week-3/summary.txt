@@ -1,0 +1,5 @@
+In Week 3 of the internship, I learned how to use NumPy and Pandas for data manipulation and analysis. I worked with NumPy arrays and performed basic mathematical operations and broadcasting to efficiently process numerical data. 
+
+Using Pandas, I learned how to create DataFrames and Series, perform indexing and slicing, and manipulate tabular data. As part of the client project, I cleaned a dataset by removing missing values and performed data aggregation by grouping the data and calculating average values. 
+
+This week helped me understand how real-world datasets can be cleaned and summarized using Python libraries, forming the foundation for further data analysis and visualization tasks.
