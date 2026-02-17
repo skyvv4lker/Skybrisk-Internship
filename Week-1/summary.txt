@@ -1,0 +1,5 @@
+In Week 1 of the internship, I studied the fundamentals of Python programming including variables, data types, operators, input/output operations, conditional statements, and loops. 
+
+As part of the hands-on practice, I implemented basic Python programs such as a temperature converter and a calculator to understand user input handling and arithmetic operations. I also developed a small data processing script to calculate the average of multiple temperature readings using loops and lists. 
+
+This week helped me build a strong foundation in Python programming logic and problem-solving, which will be useful for further data manipulation and analysis tasks in the internship.
