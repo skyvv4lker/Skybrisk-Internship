@@ -1,4 +1,4 @@
-# Skybrisk Internship – Month 1 (Data Science)
+# Skybrisk Internship - Month 1 (Data Science)
 
 This repository contains my Month 1 internship work, completed as part of the Skybrisk Data Science Internship. The tasks focus on building a strong foundation in Python programming, data manipulation, and data visualization.
 
