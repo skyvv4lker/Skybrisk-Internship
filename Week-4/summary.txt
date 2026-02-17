@@ -1,0 +1,3 @@
+In Week 4 of the internship, I learned data visualization using Matplotlib and Seaborn. I created basic plots such as line charts and histograms using Matplotlib to analyze trends and distributions in the dataset. Using Seaborn, I generated advanced visualizations including scatter plots, correlation heatmaps, and pairplots to understand relationships between different features.
+
+As part of the client project, I built a small visualization dashboard consisting of multiple plots that highlight relationships between temperature, humidity, and time. This week helped me understand how visualizations can be used to explore data patterns and communicate insights effectively.
